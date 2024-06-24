@@ -1,0 +1,18 @@
+{
+  "settings": "Настройки",
+  "theme": "Тема",
+  "language": "Язык",
+  "searchGitHub": "Поиск по Git Hub",
+  "signIn": "Войти",
+  "search": "Поиск",
+  "chooseLanguage": "Сменить язык",
+  "followers": "Подписчики",
+  "user": "Пользователь",
+  "organization": "Организация",
+  "listRepositories": "Список репозиториев",
+  "listFollowersEmpty": "Подписчиков нет",
+  "userHasNoRepositories": "У пользователя нет репозиториев",
+  "startWritingFindUsersOnGitHub": "Начните писать что бы найти пользователей по Git Hub",
+  "noUsersFound": "Пользователи не найдены",
+  "forkCount": "Количество fork'ов"
+}

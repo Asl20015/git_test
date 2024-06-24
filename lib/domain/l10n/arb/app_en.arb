@@ -1,0 +1,18 @@
+{
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "searchGitHub": "Search Git Hub",
+  "signIn": "Sign In",
+  "search": "Search",
+  "chooseLanguage": "Choose language",
+  "followers": "Followers",
+  "user": "User",
+  "organization": "Organization",
+  "listRepositories": "List repositories",
+  "listFollowersEmpty": "List followers is empty",
+  "userHasNoRepositories": "User has no repositories",
+  "startWritingFindUsersOnGitHub": "Start writing to find users on Git Hub",
+  "noUsersFound": "no users found",
+  "forkCount": "Fork count"
+}
